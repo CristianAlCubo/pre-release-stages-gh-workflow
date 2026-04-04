@@ -1,6 +1,6 @@
 {
   "name": "pre-release-stages-gh-workflow",
-  "version": "0.0.0",
+  "version": "0.0.1-dev.0",
   "description": "A CLI tool that scaffolds GitHub Actions workflows for a pre-release staging system (dev → rc → production), with automated versioning and best practices built in.",
   "keywords": [
     "cli",
