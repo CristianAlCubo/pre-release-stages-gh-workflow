@@ -1,0 +1,34 @@
+{
+  "name": "pre-release-stages-gh-workflow",
+  "version": "0.0.0",
+  "description": "A CLI tool that scaffolds GitHub Actions workflows for a pre-release staging system (dev → rc → production), with automated versioning and best practices built in.",
+  "keywords": [
+    "cli",
+    "scaffolding",
+    "boilerplate",
+    "generator",
+    "github-actions",
+    "ci",
+    "cicd",
+    "workflow",
+    "automation",
+    "devops",
+    "semver",
+    "semantic-versioning",
+    "release-managment",
+    "pre-release",
+    "release-candidate",
+    "rc",
+    "dev-build",
+    "staging",
+    "deployment-pipeline",
+    "release-workflow"
+  ],
+  "license": "MIT",
+  "author": "Cristian Cubillos",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
