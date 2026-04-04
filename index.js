@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // Crear el directorio .github/workflows si no existe
 import fs from 'fs';
 import path from 'path';
