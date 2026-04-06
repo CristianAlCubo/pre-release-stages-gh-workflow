@@ -28,7 +28,9 @@
   "author": "Cristian Cubillos",
   "type": "module",
   "main": "index.js",
-  "bin": "./index.js",
+  "bin": {
+    "pre-release-stages-gh-workflow": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
